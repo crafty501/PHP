@@ -7,3 +7,5 @@
  */
 
 echo "Hello World!";
+echo "Main";
+?>
