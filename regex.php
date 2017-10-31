@@ -30,9 +30,9 @@
  */
 
 
-//Example:
-//Führt eine Suche mit einem regulären Ausdruck durch
-//Pattern für eine gültige Mail-Adresse
+// Example:
+// Führt eine Suche mit einem regulären Ausdruck durch
+// Pattern für eine gültige Mail-Adresse
 $pattern = "/^([a-zA-Z]|ö|ä|ü|Ö|Ä|Ü|\.|-|_)+@([a-zA-Z]|ö|ä|ü|Ö|Ä|Ü|-)+\.{1}[de|com|net]/";
 
 
